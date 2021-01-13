@@ -1,3 +1,6 @@
+2.5.2
+- Added Forced Views (Initial commit)
+
 2.5.1
 - Improved listing of HDR in information dialog and list view, while still preserving correct media source
 
